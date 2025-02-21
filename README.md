@@ -2,8 +2,10 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Trinitysudo/Youtube-Playlist-Downloader/graphs/commit-activity)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-Download audio tracks from YouTube playlists quickly and easily as MP3 files. This script utilizes `yt-dlp` for fast, reliable, and efficient downloads.  It automatically creates a folder named after the playlist and saves all audio files within.
+Download audio tracks from YouTube playlists quickly and easily as MP3 files. This script utilizes `yt-dlp` for fast, reliable, and efficient downloads. It automatically creates a folder named after the playlist and saves all audio files within.
 
 ## ✨ Features
 
@@ -25,14 +27,14 @@ Download audio tracks from YouTube playlists quickly and easily as MP3 files. Th
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPO_URL]
-    cd [YOUR_REPO_DIRECTORY]
+    git clone https://github.com/Trinitysudo/Youtube-Playlist-Downloader.git
+    cd Youtube-Playlist-Downloader
     ```
 2.  **Run the Script:**
     ```bash
     python youtube_downloader.py
     ```
-3.  **Follow Prompts:**  The script will ask you to:
+3.  **Follow Prompts:** The script will ask you to:
     *   Enter the YouTube playlist URL.
     *   Enter the desired output folder (leave blank for the current directory).
 
